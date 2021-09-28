@@ -15,7 +15,7 @@ body{
     margin: 20px auto;
     border: black 2px solid;
     padding: 18px;
-    background: url("/paper.jpeg");
+    background: url("./paper.jpeg");
 }
 
 .name{
